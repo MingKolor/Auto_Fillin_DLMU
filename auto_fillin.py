@@ -10,7 +10,7 @@ filled = False
 state = "1"
 # 服务器返回的错误信息
 error = ""
-students = [['孙世明', '1120190304'], ['张鹏程', '1120190314']]
+students = [['张鹏程', '1120190314'],['孙世明', '1120190304']]
 webhook = "https://oapi.dingtalk.com/robot/send?access_token=79e6f2ea83a3b28f4444178691f1a05b2f523f6f6380ba20aad1d3d940237670"
 try:
     url = 'https://www.informationofdum.com/DMU_WEB/student_5/info/'
